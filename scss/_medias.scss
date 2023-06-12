@@ -1,0 +1,9 @@
+/*pagina carteras.html*/
+@media (max-width: 480px) {
+    main .container-carteras {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  }
